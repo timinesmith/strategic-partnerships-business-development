@@ -1,0 +1,4 @@
+prospect_id,prospect_type,organization_or_individual,fit_score,stage,proposed_value,next_step,next_step_date,owner,last_contact_date,notes
+DEMO-001,Sponsor,Illustrative local services firm,82,Research,10000,Confirm decision-maker role,2026-11-07,Business development,2026-10-30,Synthetic demonstration row
+DEMO-002,Community partner,Illustrative neighborhood association,76,Intro requested,0,Send one-page brief,2026-11-10,Partnerships,2026-10-29,Synthetic demonstration row
+DEMO-003,Event sponsor,Illustrative regional retailer,68,Package design,15000,Validate audience data,2026-11-14,Business development,2026-10-27,Synthetic demonstration row
